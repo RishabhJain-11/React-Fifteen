@@ -55,13 +55,4 @@ function App() {
 
 export default App
 
-/**
- * New Delhi
- * Delhi
- * Gurgaon
- * Ghaziabad
- * Faridabad
- * Noida
- * Alwar
- * Meerut
- */
+
