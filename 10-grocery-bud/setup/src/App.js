@@ -67,7 +67,7 @@ function App() {
   };
 
   useEffect(() => {
-    localStorage.setItem('list', JSON.find((item) => item.id === id));
+    localStorage.setItem('list', JSON.stringify(list));
   }, [list]);
 
   return (
